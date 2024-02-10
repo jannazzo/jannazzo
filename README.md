@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+This is my personal GitHub profile. I don't currently do much coding, so it's currently used mostly for GitHub Pages and file storage.
 
 <!--
 **jannazzo/jannazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
